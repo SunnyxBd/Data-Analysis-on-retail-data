@@ -1,11 +1,9 @@
 # Data-Analysis-on-retail-data
 
-Analysis on different product and time hirarchies on online retail data
+This is a data analysis project on different product and time hirarchies on a transnational dataset from an online retail company.
 
 In this data analysis project, I’m using the Online Retail dataset, donated to UCI in 2015 by the School of Engineering at London South Bank University.
 The dataset can be found here: http://archive.ics.uci.edu/ml/datasets/online+retail#
-
-This is a transnational dataset containing transactions occurring between 01/Dec/2010 and 09/Dec/2011 for a UK-based and registered online retail company.
 
 
 # Relevant Papers using this dataset:
